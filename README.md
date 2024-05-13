@@ -1,0 +1,1 @@
+# Wykrywanie-obiekt-w-na-zdj-ciach-za-pomoc-sieci-neuronowych
